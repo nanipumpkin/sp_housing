@@ -4,8 +4,9 @@ TODO: Add a description of this project.
 
 ## Content
 
-[Prepare and cleanup datasets](sp-dataset-preparing.ipynb) 
-[Exploratory analysis](sp-housing-analysis.ipynb)
+[1 - Prepare properties and demographic datasets](sp-dataset-preparing.ipynb) 
+[2 - Join properties and demographic datasets](join-datasets.ipynb) 
+[3 - Exploratory analysis](sp-housing-analysis.ipynb)
 
 
 #Dataframes
