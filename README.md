@@ -33,10 +33,16 @@ Source file: SP_Setores_2020.zip
 
 ## Setup
 
-`pip freeze > requirements.txt`
-
 `python3 -m venv venv`
 
 `pip install -r requirements.txt`
 
-`pip install ipykernel`
+### Colaborative
+
+* Start jupyter lab in collaborative mode
+    * `jupyter-lab --collaborative`
+* Create a live shave session.
+* In Session Details
+    * Create a "Shared Servers" with port **8888**
+* In Jupyter Lab, click in "Share"
+    * Send the token for the other person

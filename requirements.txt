@@ -1,3 +1,6 @@
+jupyterlab==3.4.4
+jupyterlab-link-share==0.2.4
+
 asttokens==2.0.5
 attrs==22.1.0
 backcall==0.2.0
