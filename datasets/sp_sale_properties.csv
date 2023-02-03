@@ -1,4 +1,4 @@
-,Rua,Bairro,Cidade,Metragem,Quartos,Banheiros,Vagas,Valor_BRL
+,address,ward,city,area,bedrooms,bathrooms,garages,value
 1,Rua Aurelia Perez Alvarez,Jardim dos Estados,São Paulo,496,4,4,4,3700000.0
 2,Rua Alba Valdez,Jardim Reimberg,São Paulo,125,4,3,2,380000.0
 4,Rua Tobias Barreto,Mooca,São Paulo,100,3,2,2,540000.0
