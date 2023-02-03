@@ -1,14 +1,16 @@
-# Sao Paulo Housing Prices
+# Sao Paulo Real Housing Property Value Analysis Report
+
+Marianne Costa Avalone, Data Analyst
 
 Sao Paulo is the 8th most populous city on Earth and its metropolitan region, with over 30 million inhabitants, one of the largest urban agglomerations in the world. Its real estate market is a critical part of the economy and it has a huge impact on many aspects of life. In this notebook, you will find a comprehensive analysis of the residential properties for sale accross different neighborhoods. The purpose is to look for insights in the data and identify the key aspects that define housing prices in this geographic context.
 
 ## Content
 
-- [1 - Preparing and cleaning up data](sp-housing-clean.ipynb)
-- [2 - Geolocating properties](sp-housing-geo.ipynb)
-- [3 - Exploring property types](sp-housing-properties.ipynb)
-- [4 - Housing types and prices](sp-housing-prices.ipynb)
-- [5 - Housing types per location](sp-housing-geospattypes.ipynb)
+- [1 - Analytics Report](analytics-report.ipynb)
+- [2 - Property Data Validation](property-data-validation.ipynb)
+- [3 - Postcode Data Validation](postcode-data-validation.ipynb)
+- [4 - Demographic Data Validation](demographic-data-validation.ipynb)
+- [5 - Housing types per location](sp-housing-geospattypes).ipynb)
 - [6 - Housing prices per location](sp-housing-geospatprices.ipynb)
 - [7 - Relation between housing types and demographics](sp-housing-demorelat.ipynb)
 - [8 - Price predicting model](sp-housing-pricepredict.ipynb)
