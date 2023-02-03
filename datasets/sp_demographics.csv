@@ -1,4 +1,4 @@
-,sector_id,ward,households,sector_dwellers,household_dwellers,avg_monthly_income
+,sector_id,district,households,sector_dwellers,household_dwellers,avg_monthly_income
 0,355030801000001,ÁGUA RASA,266.0,800.0,3.01,2091.32
 1,355030801000002,ÁGUA RASA,306.0,913.0,2.98,1650.09
 2,355030801000003,ÁGUA RASA,189.0,625.0,3.31,1280.43

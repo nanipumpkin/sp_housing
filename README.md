@@ -10,7 +10,7 @@ Sao Paulo is the 8th most populous city on Earth and its metropolitan region, wi
 - [2 - Property Data Validation](property-data-validation.ipynb)
 - [3 - Postcode Data Validation](postcode-data-validation.ipynb)
 - [4 - Demographic Data Validation](demographic-data-validation.ipynb)
-- [5 - Housing types per location](sp-housing-geospattypes).ipynb)
+- [5 - Geospatial Data Validation](geospatial-data-validation.ipynb)
 - [6 - Housing prices per location](sp-housing-geospatprices.ipynb)
 - [7 - Relation between housing types and demographics](sp-housing-demorelat.ipynb)
 - [8 - Price predicting model](sp-housing-pricepredict.ipynb)
